@@ -71,7 +71,7 @@ conda create -p venv python==3.7 -y
 
 6.vscode IDE
 
-7.Heroku
+7.RENDER (INSTEAD of heroku I USED RENDER BECOUSE HEROKU IS NOT FREE NOW)
 
 # Commonds For Running Flask Application in Local System
 python app.py
@@ -80,6 +80,6 @@ python app.py
 
 # Project Deployed Link
 ```
-https://flight-fare-predict36.herokuapp.com/predict
+https://flight-fare-pridiction3.onrender.com
 ```
 
